@@ -11,9 +11,8 @@ In this study, our team sought to understand the relationship between foreign la
 
 This equates to a 3 x 2 x 2 factorial design (ie. 12 unique treatment conditions).
 
-![alt text](factorial_design_structure.png "Factorial Design")
+![alt text](factorial_design_structure.png "Factorial Design" =100x20)
 
-a
 
 to evaluate the impact of foreign language marketing on perceived value of wine. Analysis used experimental techniques and multiple types of linear regression models.
 
