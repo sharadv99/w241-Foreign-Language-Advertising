@@ -3,6 +3,9 @@
 --Data Science project at UC Berkeley--  
 --Team: [Sharad Varadarajan](https://www.linkedin.com/in/sharadv/), [Charlotte Swavola](https://www.linkedin.com/in/charlotte-swavola/), [Rory Liu](https://www.linkedin.com/in/rory-liu-ba6a8718/)--  
 
+
+For a comprehensive understanding of the study and results, please see our [full research findings](https://github.com/sharadv99/w241-Foreign-Language-Advertising/blob/master/Final_Writeup%20(1).pdf)
+
 Summary
 -------
 
