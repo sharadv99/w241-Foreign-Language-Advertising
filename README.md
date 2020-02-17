@@ -3,6 +3,9 @@
 --Data Science project at UC Berkeley--  
 --Team: [Sharad Varadarajan](https://www.linkedin.com/in/sharadv/), [Charlotte Swavola](https://www.linkedin.com/in/charlotte-swavola/), [Rory Liu](https://www.linkedin.com/in/rory-liu-ba6a8718/)--  
 
+Summary
+-------
+
 In this study, our team sought to understand the relationship between foreign language advertising in wine retail and consumer willingness to pay/price perception. The high variance of wine prices, along with the strong association between place of origin and the signal on quality made it a great subject for our field experiment. We designed, launched, and analyzed the results of a multifactorial design that toggled three treatment variables of interest: advertising language, wine’s country of origin, and length of flavor profile description.
 
 - Advertising Language: English, French
