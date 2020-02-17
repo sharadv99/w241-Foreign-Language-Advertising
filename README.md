@@ -13,7 +13,18 @@ This equates to a 3 x 2 x 2 factorial design (ie. 12 unique treatment conditions
 
 ![](factorial_design_structure.png)
 
+We conducted the experiment through a Qualtrics survey, and gathered responses via Mechanical Turk. For the survey, participants first answer demographic questions, then were prompted with the treatment. The multiple treatments were administered simultaneously in the form of an image of an online marketing page. 
 
-to evaluate the impact of foreign language marketing on perceived value of wine. Analysis used experimental techniques and multiple types of linear regression models.
+![](survey_flow.png)
+
+Below you can see one of the 12 unique online marketing pages we designed. The treatment for this page is:
+
+- Advertising Language: French
+- Wine's Country of Origin: USA
+- Length of Flavor Profile Description: Long
+
+
+![](sample_page.png)
+
 
 
