@@ -11,7 +11,7 @@ In this study, our team sought to understand the relationship between foreign la
 
 This equates to a 3 x 2 x 2 factorial design (ie. 12 unique treatment conditions).
 
-![alt text](https://github.com/sharadv99/w241-Foreign-Language-Advertising/factorial_design_structure.png "Factorial Design")
+![alt text](factorial_design_structure.png "Factorial Design")
 
 
 
