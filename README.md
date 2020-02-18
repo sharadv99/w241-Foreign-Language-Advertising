@@ -4,7 +4,7 @@
 --Team: [Sharad Varadarajan](https://www.linkedin.com/in/sharadv/), [Charlotte Swavola](https://www.linkedin.com/in/charlotte-swavola/), [Rory Liu](https://www.linkedin.com/in/rory-liu-ba6a8718/)--  
 
 
-For a comprehensive understanding of the study and results, please see our [full research findings](https://github.com/sharadv99/w241-Foreign-Language-Advertising/blob/master/Final_Writeup%20(1).pdf)
+The content below is a short summary of a 4-month study/experiment the team performed at UC Berkeley. For a comprehensive understanding of the study, methods, and results, please see our [full research findings](https://github.com/sharadv99/w241-Foreign-Language-Advertising/blob/master/Final_Writeup%20(1).pdf)
 
 Summary
 -------
@@ -54,3 +54,6 @@ Subsequently, we modeled our data to see if our treatment had an effect on price
 We can see in the figure above that there were a couple of statistically significant findings. Since the team evaluated numerous regression models for the study, we did not immediatley make any causal inferences; the chances of retrieving a false positive (type II error) increases considerably when running all of these models. To avoid making false causal claims and verify that our findings were legitimate, the team re-evaluated the findings of interest on a validation study, to see if we could replicate the direction of the effect with statistical significance.
 
 The one significant finding that we have that persisted in both training and validation study (although only at 10% in the validation study) is the positive impact of French wine and French purchasing page interaction. We found that this combination drives up purchase likelihood at $20. Advertsing in French for an entry-level French wine may be a good idea for businesses, though we recommend further validation.
+
+
+As mentioned earlier, please see our [full report](https://github.com/sharadv99/w241-Foreign-Language-Advertising/blob/master/Final_Writeup%20(1).pdf) for a comprehensive understanding of the study, methods, and results.
